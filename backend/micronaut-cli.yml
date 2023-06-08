@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.nellvn
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, data, data-hibernate-reactive, flyway, gradle, hibernate-validator, http-client-test, jdbc-hikari, junit, kafka, kotlin, kotlin-application, ksp, logback, micronaut-build, netty-server, openapi, postgres, rabbitmq, readme, serialization-jackson, shade, swagger-ui, test-resources, yaml, yaml-build]
